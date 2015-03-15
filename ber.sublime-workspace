@@ -1,0 +1,1379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stack",
+				"stack_structure"
+			],
+			[
+				"nu",
+				"numOproperties"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"Bookmarks",
+				"Bookmarks"
+			],
+			[
+				"styl",
+				"stylesheet"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"para",
+				"parameterize"
+			],
+			[
+				"post_type",
+				"post_type_method"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"par",
+				"parameterize"
+			],
+			[
+				"publsihed",
+				"published_at_date"
+			],
+			[
+				"publi",
+				"published_at"
+			],
+			[
+				"remem",
+				"remember_me"
+			],
+			[
+				"ac",
+				"action_mailer"
+			],
+			[
+				"passw",
+				"password_confirmation"
+			],
+			[
+				"redire",
+				"redirect_to_root_path"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"is_user",
+				"is_user_logged_in"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/styles/app.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/app.styl",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"seq",
+				"Set Syntax: SQL"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"link-",
+				"Snippet: {{#link-to}} {{/link-to}}"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"key b",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"emb",
+				"Set Syntax: EmberScript"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ember",
+				"Set Syntax: EmberScript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"updat",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"emm",
+				"Set Syntax: Emmet"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"rb",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"log",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"ind",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"javac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"convert to ",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"toggle ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"ttabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"erb",
+				"Snippet: ERB tags"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"user ",
+				"Preferences: Key Bindings - User"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bernardo/Google Drive/Designs/active/bernardo.me/new design/bernardo",
+		"/Users/bernardo/Google Drive/Designs/active/bernardo.me/new design/bernardo/app",
+		"/Users/bernardo/Google Drive/Designs/active/bernardo.me/new design/bernardo/app/styles"
+	],
+	"file_history":
+	[
+		"/Users/bernardo/Google Drive/Designs/active/bernardo.me/new design/bernardo/app/styles/app.css",
+		"/Users/bernardo/Google Drive/Designs/active/bernardo.me/new design/bernardo/app.styl",
+		"/Users/bernardo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bernardo/Downloads/Hockey/nhlstreams.py",
+		"/Users/bernardo/Downloads/nhlstreams.py",
+		"/Applications/Cloud.app/Contents/MacOS/CloudApp",
+		"/Users/bernardo/Sites/goodmus/Gemfile",
+		"/Users/bernardo/Sites/goodmus/app/models/emotion.rb",
+		"/Users/bernardo/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/bernardo/Library/Caches/com.apple.iTunes/PlayCache/PlayCacheInfo.xml",
+		"/Users/bernardo/Sites/embertut/js/app.js",
+		"/Users/bernardo/Sites/embertut/js/libs/handlebars-1.1.2.js",
+		"/Users/bernardo/Sites/embertut/js/libs/ember-1.6.1.js",
+		"/Users/bernardo/Sites/embertut/embertut.sublime-project",
+		"/Users/bernardo/Sites/wip evermarks/relevant material/sort.rb",
+		"/Users/bernardo/Sites/wip evermarks/evermarks/migrate/js/app.js",
+		"/Users/bernardo/Sites/wip evermarks/evermarks/migrate/index.html",
+		"/Users/bernardo/Sites/wip evermarks/evermarks/app/views/layouts/application.html.erb",
+		"/Users/bernardo/Downloads/ember.min.js",
+		"/Users/bernardo/Downloads/starter-kit-1.6.1/js/libs/ember-1.6.1.js",
+		"/Users/bernardo/Sites/embertut/bower_components/ember/package.json",
+		"/Users/bernardo/Sites/embertut/bower_components/ember/README.md",
+		"/Users/bernardo/Sites/dewey/deweyapp/bower.json",
+		"/Users/bernardo/Sites/embertut/bower_components/ember/bower.json",
+		"/Users/bernardo/Sites/wip evermarks/evermarks/config/application.rb",
+		"/Users/bernardo/Sites/wip evermarks/evermarks/app/assets/javascripts/application.js",
+		"/Users/bernardo/Sites/wip evermarks/css-evermarks/css-evermarks.sublime-project",
+		"/Users/bernardo/Sites/wip evermarks/css-evermarks/.sass-cache/216835a9c183c7bd4106feb95d22f811c2886e6d/_resize.scssc",
+		"/Users/bernardo/Sites/wip evermarks/evermarks/config/secrets.yml",
+		"/Users/bernardo/Sites/wip evermarks/css-evermarks/.sass-cache/4bcf0dc020cdd3e81e873f32e636f6b7e5b771e7/_scaffolding.scssc",
+		"/Users/bernardo/Sites/wip evermarks/evermarks/migrate/css/style.css",
+		"/Users/bernardo/Sites/wip evermarks/evermarks/bin/spring",
+		"/Users/bernardo/Sites/evermarks/Gemfile",
+		"/Users/bernardo/Sites/wip evermarks/evermarks/migrate/data-structure.md",
+		"/Users/bernardo/Sites/wip evermarks/evermarks/migrate/evermarks.sublime-project",
+		"/Users/bernardo/Sites/wip evermarks/evermarks/migrate/tests/tests.js",
+		"/Users/bernardo/Sites/wip evermarks/css-evermarks/assets/sass/vendor/bootstrap/mixins/_gradients.scss",
+		"/Users/bernardo/Sites/wip evermarks/css-evermarks/assets/sass/mixin/_grid.scss",
+		"/Users/bernardo/Sites/wip evermarks/evermarks/config/initializers/mime_types.rb",
+		"/Users/bernardo/Sites/wip evermarks/css-evermarks/assets/sass/vendor/bootstrap.scss",
+		"/Users/bernardo/Sites/wip evermarks/css-evermarks/assets/sass/vendor/_bootstrap-compass.scss",
+		"/Users/bernardo/Sites/wip evermarks/css-evermarks/assets/sass/vendor/_bootstrap-sprockets.scss",
+		"/Users/bernardo/Sites/wip evermarks/css-evermarks/assets/sass/vendor/_bootstrap-mincer.scss",
+		"/Users/bernardo/Downloads/bootstrap-sass-3.2.0/assets/stylesheets/bootstrap/_alerts.scss",
+		"/Users/bernardo/Downloads/bootstrap-sass-3.2.0/assets/stylesheets/_bootstrap-sprockets.scss",
+		"/Users/bernardo/Downloads/bootstrap-sass-3.2.0/lib/bootstrap-sass.rb",
+		"/Users/bernardo/Downloads/bootstrap-sass-3.2.0/templates/project/_bootstrap-variables.sass.erb",
+		"/Users/bernardo/Sites/evermarks/app/api-calls/notebook.rb",
+		"/Users/bernardo/Sites/evermarks/js/app.js",
+		"/Users/bernardo/Sites/evermarks/config.ru",
+		"/Users/bernardo/Sites/evermarks/config/initializers/filter_parameter_logging.rb",
+		"/Users/bernardo/Sites/evermarks/config/initializers/inflections.rb",
+		"/Users/bernardo/Sites/evermarks/config/initializers/mime_types.rb",
+		"/Users/bernardo/Sites/evermarks/test.html",
+		"/Users/bernardo/Sites/evermarks/js/libs/evernote-sdk.min.js",
+		"/Users/bernardo/Library/Application Support/Sublime Text 3/Packages/Emmet Css Snippets/package-metadata.json",
+		"/Users/bernardo/Library/Application Support/Sublime Text 3/Packages/Emmet Css Snippets/Completions.sublime-completions",
+		"/Users/bernardo/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bernardo/Sites/evermarks/css/normalize.css",
+		"/Users/bernardo/Sites/html5ber/proxima/proxima.css",
+		"/Users/bernardo/Sites/mycms/db/migrate/20140608215322_create_ckeditor_assets.rb",
+		"/Users/bernardo/Sites/mycms/config/initializers/ckeditor.rb",
+		"/Users/bernardo/Sites/mycms/app/models/concerns/.keep",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/activerecord-4.1.0/lib/active_record/model_schema.rb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/devise-3.2.4/lib/devise/models.rb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/activemodel-4.1.0/lib/active_model/model.rb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/tilt-1.4.1/test/markaby/markaby_other_static.mab",
+		"/Users/bernardo/Sites/mycms/app/models/meta.rb",
+		"/Users/bernardo/Sites/mycms/app/models/ckeditor/attachment_file.rb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/coffee-rails-4.0.1/test/assets_test.rb",
+		"/Users/bernardo/Sites/mycms/app/assets/javascripts/application.js",
+		"/Users/bernardo/Sites/mycms/public/assets/ckeditor/filebrowser/javascripts/fileuploader-35d49c692e70fa579874e6e74704a9a7.js",
+		"/Users/bernardo/Sites/mycms/config/initializers/filter_parameter_logging.rb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/bootstrap-sass-3.1.1.1/test/dummy_sass_only/import_all.sass",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/arel-5.0.1.20140414130214/lib/arel/insert_manager.rb",
+		"/Users/bernardo/Sites/mycms/app/views/posts/index.html.erb",
+		"/Users/bernardo/Sites/mycms/app/uploaders/ckeditor_attachment_file_uploader.rb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/bin/sass-convert",
+		"/Users/bernardo/Sites/mycms/app/models/ckeditor/picture.rb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/multi_json-1.10.1/spec/shared/adapter.rb",
+		"/Users/bernardo/Sites/mycms/app/views/confirmable/shared/_links.erb",
+		"/Users/bernardo/Sites/mycms/app/models/shared.rb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/build_info/ckeditor-4.0.11.info",
+		"/Users/bernardo/Sites/mycms/app/uploaders/ckeditor_picture_uploader.rb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/config/locales/cs.ckeditor.yml",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/ref-1.0.5/test/reference_key_map_behavior.rb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/multi_json-1.10.1/lib/multi_json/convertible_hash_keys.rb",
+		"/Users/bernardo/Sites/mycms/public/assets/ckeditor/plugins/codesnippet/lib/highlight/README.ru-da29be9bb44f47b770238d226ba04f28.md",
+		"/Users/bernardo/Sites/mycms/public/assets/ckeditor/plugins/forms/dialogs/textarea-50165fa411925dabe6bdc2d5c2ddb01c.js",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/app/controllers/ckeditor/application_controller.rb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/test/support/controller_hooks.rb",
+		"/Users/bernardo/Sites/mycms/test/controllers/posts_controller_test.rb",
+		"/Users/bernardo/Sites/mycms/public/assets/ckeditor/contents.css",
+		"/Users/bernardo/Sites/mycms/public/assets/ckeditor/lang/vi-e7c6eb44b00cd2edfc557e2c5567d822.js",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/nested_form-0.3.2/lib/nested_form/view_helper.rb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/actionview-4.1.0/lib/action_view/view_paths.rb",
+		"/Users/bernardo/Sites/mycms/public/assets/ckeditor/lang/en-gb-62b3cd7919dc5063e560d107f76beab2.js",
+		"/Users/bernardo/Sites/mycms/lib/tasks/ckeditor.rake",
+		"/Users/bernardo/Sites/mycms/tmp/cache/assets/development/sass/1045f789c56d9a71b15c6b91e102408f2660c0e4/_navbar.scssc",
+		"/Users/bernardo/Sites/mycms/tmp/cache/assets/development/sass/24c81d0df2078a7f652f765fb5cecbc65d6ab2d0/_nav-vertical-align.scssc",
+		"/Users/bernardo/Sites/mycms/public/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nl-a1076194cce9c8478207df4fb0ea9a5c.js",
+		"/Users/bernardo/Sites/mycms/app/views/posts/new.html.erb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/bootstrap-sass-3.1.1.1/templates/project/_variables.sass.erb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/bootstrap-sass-3.1.1.1/bootstrap-sass.gemspec",
+		"/Users/bernardo/Sites/mycms/tmp/cache/assets/development/sass/b10004251bfb0849fa7a1acd8f878321814cd792/bootstrap.scssc",
+		"/Users/bernardo/Sites/mycms/bin/bundle",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/bootstrap3-datetimepicker-rails-3.0.0/vendor/assets/javascripts/locales/bootstrap-datetimepicker.vn.js",
+		"/Users/bernardo/Sites/mycms/tmp/cache/assets/development/sass/b66cc4e14c8e895572c9cac15e26ff19532ad43b/bootstrap-datetimepicker.cssc",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets/bootstrap.scss",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/bin/scss",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/sprockets-2.11.0/lib/sprockets/sass_cache_store.rb",
+		"/Users/bernardo/Sites/mycms/app/assets/stylesheets/tags.css.scss",
+		"/Users/bernardo/Sites/mycms/.bundle/config",
+		"/Users/bernardo/Sites/mycms/.gitignore",
+		"/Users/bernardo/Sites/mycms/config/application.rb",
+		"/Users/bernardo/Sites/mycms/app/views/confirmable/mailer/reset_password_instructions.html.erb",
+		"/Users/bernardo/Sites/mycms/bin/rake",
+		"/Users/bernardo/Sites/mycms/public/assets/ckeditor/plugins/scayt/README-578fbd002f5a6253e3e98bf72c1694e7.md",
+		"/Users/bernardo/Sites/mycms/public/assets/ckeditor/README-2704c2f8fda41d54af37053406e4bb6b.md",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/cache/ckeditor-4.0.11.gem",
+		"/Users/bernardo/Sites/mycms/tmp/cache/assets/development/sass/b811836af11ab6f6809ee3552b53e063e2e303ff/_responsive-embed.scssc",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/rdoc-4.1.1/ExampleMarkdown.md",
+		"/Users/bernardo/Sites/mycms/config/environment.rb",
+		"/Users/bernardo/Sites/mycms/vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/config/routes.rb",
+		"/Users/bernardo/Sites/mycms/app/controllers/confirmations_controller.rb",
+		"/Users/bernardo/Sites/mycms/app/assets/javascripts/ckeditor/config.js",
+		"/Users/bernardo/Sites/mycms/app/models/user.rb",
+		"/Users/bernardo/Sites/mycms/app/views/devise/sessions/new.html.erb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/Users/bernardo/Sites/mycms",
+			"/Users/bernardo/Sites/mycms/app",
+			"/Users/bernardo/Sites/mycms",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"slab",
+			"ha",
+			"t1",
+			"t1.pi",
+			"pid",
+			"\\n\\n",
+			"abort",
+			":",
+			"path",
+			"os",
+			"OS",
+			"OS.",
+			"\\n\\n",
+			"l[",
+			"right",
+			"random",
+			"Handlebars",
+			", \"",
+			"\":",
+			"{ \"",
+			"enter",
+			"bookmark",
+			"width=\"16\"",
+			"a {",
+			"ease",
+			"transition: ",
+			"trans",
+			",",
+			"assemble",
+			"handle",
+			"sass",
+			"pingData",
+			"box-siz",
+			"box-s",
+			"fonts/proxima/",
+			"}\n",
+			"ckeditor_current_user",
+			"assetable",
+			"pictu",
+			"radius-base",
+			"radius",
+			"<div id=\"fileupload",
+			"ckeditorfuncnum",
+			"ckeditor files",
+			"picture_adapter",
+			"size",
+			"navbar-def",
+			"gray",
+			"theme",
+			"pbckcodeGroup",
+			"toolbar",
+			"summary",
+			"slug",
+			"styles",
+			"bootstrapck",
+			"tags",
+			".png",
+			"date",
+			"publi",
+			"debu",
+			"save_",
+			"tag id",
+			"logger",
+			"inspe",
+			"tag_tokens",
+			"self",
+			"tag_tokens",
+			"extend",
+			"post_type_param",
+			"post_type",
+			"post_t",
+			"slug",
+			"valida",
+			"get_tag_ids",
+			"destroy",
+			"params",
+			"destro",
+			"param",
+			"finder",
+			"tags",
+			"select",
+			"tag_ids",
+			"published_",
+			"tag_ids",
+			"value",
+			"type",
+			".each",
+			"@post",
+			"@",
+			"param",
+			"post_ty",
+			":type",
+			"type",
+			"post_type",
+			"correct",
+			"tag_ids",
+			"post_type",
+			"set_",
+			"type",
+			"validates",
+			"tag_id",
+			"post_type",
+			"length",
+			"page",
+			"options",
+			"@post",
+			"post",
+			"id",
+			"opts.",
+			":user",
+			":taggings",
+			"para",
+			"params",
+			"para",
+			"slug",
+			"icon-font-nam",
+			"icon-font",
+			"compile",
+			"ass",
+			"config.cache_",
+			"precomp",
+			"current",
+			"set_p",
+			"correct",
+			"resend conf",
+			"confirm",
+			"SQL",
+			"confirmation_t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"=>",
+			"PATH",
+			"OS",
+			"self.",
+			"\\n",
+			", ",
+			":",
+			"{ ",
+			"width=\"16\" class=\"fsteal\"",
+			"Ping.attributes",
+			"",
+			"@tag",
+			"tag",
+			"three",
+			"",
+			"section",
+			"h3",
+			"h4",
+			"h3",
+			"<i>/</i>",
+			"",
+			"$grey",
+			"purple",
+			"orange",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/styles/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/styles/app.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ber.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tag",
+				"app/models/tag.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"ember",
+				"js/libs/ember-1.6.1.js"
+			],
+			[
+				"hand",
+				"js/libs/handlebars-1.1.2.js"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"a",
+				"js/app.js"
+			],
+			[
+				"index",
+				"css-evermarks/templates/index.html"
+			],
+			[
+				"app",
+				"css-evermarks/assets/js/app.js"
+			],
+			[
+				"migrate/",
+				"evermarks/migrate/js/app.js"
+			],
+			[
+				"config/e",
+				"config/environment.rb"
+			],
+			[
+				"envi",
+				"config/environment.rb"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"foot",
+				"footer.html"
+			],
+			[
+				"show",
+				"app/views/posts/show.html.erb"
+			],
+			[
+				"ckeditorasset",
+				"app/models/ckeditor/asset.rb"
+			],
+			[
+				"modelsck",
+				"app/models/ckeditor/picture.rb"
+			],
+			[
+				"attac",
+				"app/uploaders/ckeditor_attachment_file_uploader.rb"
+			],
+			[
+				"file",
+				"app/models/ckeditor/attachment_file.rb"
+			],
+			[
+				"ckedit",
+				"config/initializers/ckeditor.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"asset",
+				"app/models/ckeditor/asset.rb"
+			],
+			[
+				"ckeditorass",
+				"db/migrate/20140608215322_create_ckeditor_assets.rb"
+			],
+			[
+				"picture",
+				"app/models/ckeditor/picture.rb"
+			],
+			[
+				"",
+				"app/uploaders/ckeditor_picture_uploader.rb"
+			],
+			[
+				"pictu",
+				"app/models/ckeditor/picture.rb"
+			],
+			[
+				"shared/ass",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/app/views/ckeditor/shared/_asset.html.erb"
+			],
+			[
+				"ckeditorindex.",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/app/views/ckeditor/attachment_files/index.html.erb"
+			],
+			[
+				"enckeyml",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/config/locales/en.ckeditor.yml"
+			],
+			[
+				"ckeditorcontro",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/app/controllers/ckeditor/pictures_controller.rb"
+			],
+			[
+				"ckeditorcontroll",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/lib/ckeditor/helpers/controllers.rb"
+			],
+			[
+				"ckeditorviewh",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/lib/ckeditor/helpers/view_helper.rb"
+			],
+			[
+				"ckeditorengine",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/lib/ckeditor/engine.rb"
+			],
+			[
+				"ckedi",
+				"app/uploaders/ckeditor_attachment_file_uploader.rb"
+			],
+			[
+				"pic",
+				"app/models/ckeditor/picture.rb"
+			],
+			[
+				"post",
+				"app/models/post.rb"
+			],
+			[
+				"cked",
+				"config/initializers/ckeditor.rb"
+			],
+			[
+				"confi",
+				"app/assets/javascripts/ckeditor/config.js"
+			],
+			[
+				"ck",
+				"config/initializers/ckeditor.rb"
+			],
+			[
+				"pict",
+				"app/models/ckeditor/picture.rb"
+			],
+			[
+				"navbar",
+				"tmp/cache/assets/development/sass/1045f789c56d9a71b15c6b91e102408f2660c0e4/_navbar.scssc"
+			],
+			[
+				"bootstrapvaria",
+				"vendor/bundle/ruby/2.0.0/gems/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets/bootstrap/_variables.scss"
+			],
+			[
+				"bootstrapvari",
+				"vendor/bundle/ruby/2.0.0/gems/bootstrap-sass-3.1.1.1/templates/project/_variables.sass.erb"
+			],
+			[
+				"bootstrap",
+				"vendor/bundle/ruby/2.0.0/gems/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets/bootstrap.scss"
+			],
+			[
+				"appli",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"applica",
+				"config/application.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"config",
+				"app/assets/javascripts/ckeditor/config.js"
+			],
+			[
+				"uploaders/",
+				"app/uploaders/ckeditor_attachment_file_uploader.rb"
+			],
+			[
+				"vendor/ckeditor/js",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/vendor/assets/javascripts/ckeditor/plugins/forms/dialogs/button.js"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"conf",
+				"app/assets/javascripts/ckeditor/config.js"
+			],
+			[
+				"rake",
+				"bin/rake"
+			],
+			[
+				"bootstrapckscss",
+				"public/cke/bootstrapck/scss/config/_colors.scss"
+			],
+			[
+				"bootstrapck/scss",
+				"public/cke/bootstrapck/scss/config/_defaults.scss"
+			],
+			[
+				"bootstrapckcolor",
+				"public/cke/bootstrapck/scss/components/_colorpanel.scss"
+			],
+			[
+				"contents.",
+				"app/assets/javascripts/ckeditor/contents.css"
+			],
+			[
+				"_",
+				"app/views/posts/_form.html.erb"
+			],
+			[
+				"appl",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"_fo",
+				"app/views/posts/_form.html.erb"
+			],
+			[
+				"contents.css",
+				"public/assets/ckeditor/contents.css"
+			],
+			[
+				"config.js",
+				"app/assets/javascripts/ckeditor/config.js"
+			],
+			[
+				"override",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/app/assets/javascripts/ckeditor/override.js.erb"
+			],
+			[
+				"config.j",
+				"app/assets/javascripts/ckeditor/config.js"
+			],
+			[
+				"init.js",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/app/assets/javascripts/ckeditor/init.js.erb"
+			],
+			[
+				"produ",
+				"config/environments/production.rb"
+			],
+			[
+				"ckeditorappli",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/app/assets/javascripts/ckeditor/application.js"
+			],
+			[
+				"application.js",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/test/dummy/app/assets/javascripts/application.js"
+			],
+			[
+				"build-confi",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/vendor/assets/javascripts/ckeditor/build-config.js"
+			],
+			[
+				"overr",
+				"vendor/bundle/ruby/2.0.0/gems/ckeditor-4.0.11/app/assets/javascripts/ckeditor/override.js.erb"
+			],
+			[
+				"applicat",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"form",
+				"app/views/posts/_form.html.erb"
+			],
+			[
+				"remove_c",
+				"db/migrate/20140610060122_remove_content_html_from_post.rb"
+			],
+			[
+				"db/mig",
+				"db/migrate/20140526173737_create_posts.rb"
+			],
+			[
+				"_for",
+				"app/views/posts/_form.html.erb"
+			],
+			[
+				"posts",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"contents",
+				"public/cke/widget/dev/contents.css"
+			],
+			[
+				"bootstrapck/",
+				"public/cke/bootstrapck/editor.css"
+			],
+			[
+				"bootstrapck",
+				"public/cke/bootstrapck/sample/css/bootstrapck-sample.css"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"applic",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"footer",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"head",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"cke",
+				"config/initializers/ckeditor.rb"
+			],
+			[
+				"_form",
+				"app/views/posts/_form.html.erb"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"ckeditor",
+				"config/initializers/ckeditor.rb"
+			],
+			[
+				"application",
+				"config/application.rb"
+			],
+			[
+				"tags",
+				"app/controllers/tags_controller.rb"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"prod",
+				"config/environments/production.rb"
+			],
+			[
+				"select2",
+				"vendor/bundle/ruby/2.0.0/gems/select2-rails-3.5.7/app/assets/stylesheets/select2.css.erb"
+			],
+			[
+				"css.",
+				"vendor/bundle/ruby/2.0.0/gems/select2-rails-3.5.7/app/assets/stylesheets/select2.css.erb"
+			],
+			[
+				"selec",
+				"vendor/bundle/ruby/2.0.0/gems/select2-rails-3.5.7/app/assets/stylesheets/select2.css.erb"
+			],
+			[
+				"tagging_he",
+				"app/helpers/tagging_helper.rb"
+			],
+			[
+				"helper",
+				"app/helpers/posts_helper.rb"
+			],
+			[
+				"tag_c",
+				"app/controllers/tags_controller.rb"
+			],
+			[
+				"tagging",
+				"app/models/tagging.rb"
+			],
+			[
+				"postshe",
+				"app/helpers/posts_helper.rb"
+			],
+			[
+				"taggin",
+				"app/models/tagging.rb"
+			],
+			[
+				"shared",
+				"app/models/shared.rb"
+			],
+			[
+				"taggi",
+				"app/models/tagging.rb"
+			],
+			[
+				"regi",
+				"app/controllers/registrations_controller.rb"
+			],
+			[
+				"post/show",
+				"app/views/posts/show.html.erb"
+			],
+			[
+				"page",
+				"app/controllers/page_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"sahred",
+				"app/models/shared.rb"
+			],
+			[
+				"postcon",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"control",
+				"test/controllers/posts_controller_test.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"tag.r",
+				"app/models/tag.rb"
+			],
+			[
+				"postcont",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"postco",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"share",
+				"app/models/shared.rb"
+			],
+			[
+				"posstcoff",
+				"app/assets/javascripts/posts.js.coffee"
+			],
+			[
+				"tagscon",
+				"app/controllers/tags_controller.rb"
+			],
+			[
+				"taginde",
+				"app/views/tags/index.html.erb"
+			],
+			[
+				"tagcontrol",
+				"app/controllers/tags_controller.rb"
+			],
+			[
+				"controll",
+				"test/controllers/tags_controller_test.rb"
+			],
+			[
+				"post.r",
+				"app/models/post.rb"
+			],
+			[
+				"posthel",
+				"app/helpers/posts_helper.rb"
+			],
+			[
+				"tag.rb",
+				"app/models/tag.rb"
+			],
+			[
+				"select.j",
+				"vendor/bundle/ruby/2.0.0/gems/select2-rails-3.5.7/app/assets/javascripts/select2.js"
+			],
+			[
+				"produc",
+				"config/environments/production.rb"
+			],
+			[
+				"viewpost",
+				"app/views/posts/_form.html.erb"
+			],
+			[
+				"postc",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"viewpo",
+				"app/views/posts/_form.html.erb"
+			],
+			[
+				"page.rb",
+				"app/models/page.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

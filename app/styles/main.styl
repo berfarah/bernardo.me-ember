@@ -1,0 +1,64 @@
+p
+	slab(18px)
+	line-height 1.5
+
+.navbar-main
+	position absolute
+	z-index 5
+	top 0
+	width 100%
+
+	h1
+		margin 0
+
+	.container-fluid
+		padding 0
+
+	.navbar-brand
+		font-size 28px
+		font-weight 900
+		color $white
+		text-transform uppercase
+
+		&:hover
+			color $white
+
+		span
+			color $brand-primary
+
+	.navbar-right
+		slab(20px, 500)
+		text-transform lowercase
+		a
+			color $gray-lighter
+			&:hover
+				background rgba(255,255,255,0.03)
+				color $white
+			&.active
+				border-top 3px solid $brand-primary
+				padding-top 12px
+
+footer.global
+	text-align center
+	padding-top 24px
+	line-height 40px
+	text-transform uppercase
+	border-top 1px solid $gray-lighter
+
+.feature
+	background $gray-darker
+
+	article
+		margin 0
+		overflow hidden
+		min-height 50vh
+		position relative
+
+	figure
+		position absolute
+		background-size cover
+		top 0
+		bottom 0
+		left 0
+		right 0
+		opacity 0.3
