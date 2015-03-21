@@ -1,0 +1,7 @@
+link-to 'posts.post' item.id tagName='div'
+	if item.image
+		link-to 'posts.post' item.id class="img-contain"
+			view 'feature-figure'
+	h3 = item.title
+	h5 = firstTag
+	p.desc == item.summary

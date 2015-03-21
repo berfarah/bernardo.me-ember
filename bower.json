@@ -12,6 +12,7 @@
     "ember-qunit": "0.2.8",
     "ember-qunit-notifications": "0.0.7",
     "qunit": "~1.17.1",
-    "bootstrap-stylus": "~4.0.2"
+    "bootstrap-stylus": "~4.0.2",
+    "lodash": "~3.5.0"
   }
 }

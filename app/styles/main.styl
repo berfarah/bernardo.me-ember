@@ -1,12 +1,12 @@
 p
 	slab(18px)
-	line-height 1.5
 
 .navbar-main
 	position absolute
-	z-index 5
+	z-index 99
 	top 0
 	width 100%
+	color $gray-lighter
 
 	h1
 		margin 0
@@ -31,7 +31,8 @@ p
 		text-transform lowercase
 		a
 			color $gray-lighter
-			&:hover
+			&:hover,
+			&:focus
 				background rgba(255,255,255,0.03)
 				color $white
 			&.active
@@ -53,6 +54,7 @@ footer.global
 		overflow hidden
 		min-height 50vh
 		position relative
+		padding-top 50px
 
 	figure
 		position absolute

@@ -1,0 +1,30 @@
+article.row.blog
+	if isContent
+		.content.col-md-4
+			.center
+				h1: link-to 'posts.post' item.id
+					widow-fix item.title
+				p = item.summary
+	if isQuote
+		.quote.col-md-4 = item.summary
+	if isSingle
+		.col-md-6.meta.center
+			h1
+				widow-fix item.title
+			time datetime=date.time
+				i.glyphicon.glyphicon-time
+				| September 2nd, 2015
+			if item.tags
+				dl
+					span
+						i.glyphicon.glyphicon-tags
+						' Tags:
+					each tag in item.tags
+						dt: a href="#" = tag
+
+		if item.embed
+			.embed: o-embed embed=item.embed
+	.attribution: a href=item.credit_url target="_blank" = item.credit
+	view "feature-figure" animation=true
+
+= outlet "main"

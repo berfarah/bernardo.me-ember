@@ -1,0 +1,2 @@
+with current as item
+	feature-box type="work" item=item

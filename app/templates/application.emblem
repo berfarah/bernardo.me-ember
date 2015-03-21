@@ -1,52 +1,5 @@
-nav.nav.navbar-main
-	.container-fluid
-		.navbar-header
-			button.navbar-toggle.collapsed type="button" data-toggle="collapse" data-target="#navbar-collapse"
-				span.sr-only Toggle navigation
-				span.icon-bar
-				span.icon-bar
-				span.icon-bar
-			h1: a.navbar-brand href="#"
-				| Bernardo
-				span .
-		.collapse.navbar-collapse
-			ul.nav.navbar-nav.navbar-right
-				li: a.active href="#" Blog
-				li: a href="#" Work
-				li: a href="#" Music
-				li: a href="#" Resume
-				li: a href="#" Contacts
+= partial "layout/nav"
 
-section.feature
-	article.row.blog
-		figure style="background-image: url(http://localhost:4200/images/Night-Launch-NASA.jpg); background-position-y: 20%"
-		.content.col-md-4
-			h1 A Hypothetical NASA Rescue Plan
-			p An incredible article about a potential rescue of Columbia, the doomed NASA flight in 2003. Would make for a terrific movie.
-		/ .quote.col-md-4
-		/ 	| A man who wants to lead the orchestra must turn his back on the crowd.
-		.attribution Credit to getty images or something
+= outlet
 
-	= outlet "main"
-
-section.container-fluid.content-list
-	.row
-		article.col-md-3.col
-			h3 No longer Touching Ground by A.C.T
-			h5 Song of the Week
-			p A.C.T manages to live somewhere between progressive rock and broadway. This deliriously happy song is incredibly uplifting
-		article.col-md-3.col.quote
-			h3 Dr. Seuss
-			h5 Quotes
-			p Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind
-		article.col-md-3.col
-			h3 Hyperventilate by Frost*
-			h5 Song of the Week
-			p This instrumental song introduced me to the band, Frost*, and is a terrific opener for their first album
-		article.col-md-3.col
-			h3 Brain to Brain Communication
-			h5 Videos
-			p This could be the beginnings of something amazing. Currently it’s limited to very basic motor movements, but
-
-footer.global
-	| Copyright &copy; Bernardo Farah 2011-2015
+= partial "layout/footer"

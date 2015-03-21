@@ -3,11 +3,10 @@
 var EmberApp = require('ember-cli/lib/broccoli/ember-app');
 
 var app = new EmberApp({
-	coffeeES6: {
-		debug: true
-	}
 });
 
+app.import('vendor/helpers.js');
+app.import('vendor/lodash/lodash.js');
 // Use `app.import` to add additional libraries to the generated
 // output files.
 //

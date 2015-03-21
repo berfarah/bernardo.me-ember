@@ -1,0 +1,8 @@
+with first as item
+	feature-box type=item.type item=item
+
+section.container-fluid.content-list
+	each group in rest
+		.row
+			each item in group
+				blog-list item=item

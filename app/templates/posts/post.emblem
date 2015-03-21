@@ -1,0 +1,5 @@
+feature-box type="single" item=this
+
+section.container-fluid.post
+	.excerpt == summary
+	the-content body

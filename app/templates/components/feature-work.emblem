@@ -1,0 +1,11 @@
+article.row.blog
+	.content.col-md-4
+		.center
+			h1: link-to 'works.work' item.id
+				widow-fix item.title
+			p = item.summary
+
+	.attribution: a href=item.credit_url target="_blank" = item.credit
+	view "feature-figure" animation=true
+
+= outlet "main"
